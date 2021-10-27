@@ -1,4 +1,4 @@
-package CarDealership;
+package ua.aleksandr.ciklumhomework.CarDealership;
 
 import org.apache.log4j.Logger;
 

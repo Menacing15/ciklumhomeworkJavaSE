@@ -1,4 +1,4 @@
-package CarDealership;
+package ua.aleksandr.ciklumhomework.CarDealership;
 
 public class Customer {
     private String name;

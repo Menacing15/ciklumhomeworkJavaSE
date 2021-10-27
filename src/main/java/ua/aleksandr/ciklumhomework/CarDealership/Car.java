@@ -1,4 +1,4 @@
-package CarDealership;
+package ua.aleksandr.ciklumhomework.CarDealership;
 
 public class Car {
     private String brand;
