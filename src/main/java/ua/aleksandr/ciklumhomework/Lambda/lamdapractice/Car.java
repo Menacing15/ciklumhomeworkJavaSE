@@ -24,7 +24,7 @@ public class Car {
     }
 
     void printCar() {
-        App.log.info(this);
+        LambdaPractice.log.info(this);
     }
 
     public String getMake() {

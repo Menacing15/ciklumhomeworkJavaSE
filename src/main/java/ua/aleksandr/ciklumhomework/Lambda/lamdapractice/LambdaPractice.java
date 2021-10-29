@@ -7,9 +7,9 @@ import java.util.List;
 import java.util.function.Function;
 import java.util.function.Predicate;
 
-public class App {
+public class LambdaPractice {
 
-    static Logger log = Logger.getLogger(App.class.getName());
+    static Logger log = Logger.getLogger(LambdaPractice.class.getName());
 
     public static void main(String[] args) {
 

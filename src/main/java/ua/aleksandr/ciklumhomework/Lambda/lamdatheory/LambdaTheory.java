@@ -2,8 +2,8 @@ package ua.aleksandr.ciklumhomework.Lambda.lamdatheory;
 
 import org.apache.log4j.Logger;
 
-public class Main {
-    static Logger log = Logger.getLogger(Main.class.getName());
+public class LambdaTheory {
+    static Logger log = Logger.getLogger(LambdaTheory.class.getName());
 
     public static void main(String[] args) {
         Human human = new Human();

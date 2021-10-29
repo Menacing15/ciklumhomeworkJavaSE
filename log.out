@@ -1,0 +1,141 @@
+2021-10-29 00:23:33 INFO  Lambda:27 - Car{make='Mitsubishi', model='Lancer', color='White', price=20000.0}
+2021-10-29 00:23:33 INFO  Lambda:27 - Car{make='Honda', model='Accord', color='Red', price=22300.0}
+2021-10-29 00:23:33 INFO  Lambda:27 - Car{make='Jeep', model='Wrangler', color='Red', price=24500.0}
+2021-10-29 00:23:33 INFO  Lambda:32 - Printing cars between price 18000 and 22000
+2021-10-29 00:23:33 INFO  Lambda:27 - Car{make='Mitsubishi', model='Lancer', color='White', price=20000.0}
+2021-10-29 00:23:33 INFO  Lambda:40 - Printing cars that are blue
+2021-10-29 00:23:33 INFO  Lambda:27 - Car{make='Honda', model='Civic', color='Blue', price=17700.0}
+2021-10-29 00:23:33 INFO  Lambda:27 - Car{make='Toyota', model='Camry', color='Blue', price=24000.0}
+2021-10-29 00:23:33 INFO  Lambda:51 - Printing cars between price 18000 and 22000
+2021-10-29 00:23:33 INFO  Lambda:27 - Car{make='Mitsubishi', model='Lancer', color='White', price=20000.0}
+2021-10-29 00:23:33 INFO  Lambda:54 - Printing cars that are blue
+2021-10-29 00:23:33 INFO  Lambda:27 - Car{make='Honda', model='Civic', color='Blue', price=17700.0}
+2021-10-29 00:23:33 INFO  Lambda:27 - Car{make='Toyota', model='Camry', color='Blue', price=24000.0}
+2021-10-29 00:23:33 INFO  Lambda:60 -  price = 22300.0 color = Red
+2021-10-29 02:42:20 INFO  Lambda:20 - 1
+2021-10-29 02:42:20 INFO  Lambda:20 - 2
+2021-10-29 02:42:20 INFO  Lambda:20 - 3
+2021-10-29 02:42:20 INFO  Lambda:20 - 4
+2021-10-29 02:42:20 INFO  Lambda:20 - 5
+2021-10-29 02:42:20 INFO  Lambda:20 - 6
+2021-10-29 02:42:20 INFO  Lambda:20 - 7
+2021-10-29 02:42:20 INFO  Lambda:20 - 8
+2021-10-29 02:42:20 INFO  Lambda:20 - 9
+2021-10-29 02:42:20 INFO  Lambda:22 - 6
+2021-10-29 02:42:20 INFO  Lambda:22 - 7
+2021-10-29 02:42:20 INFO  Lambda:22 - 8
+2021-10-29 02:42:20 INFO  Lambda:22 - 9
+2021-10-29 02:42:20 INFO  Lambda:24 - 10
+2021-10-29 02:42:20 INFO  Lambda:26 - Stream of examples
+2021-10-29 02:42:20 INFO  Lambda:27 - chifu
+2021-10-29 02:42:20 INFO  Lambda:29 - Stream of examples
+2021-10-29 02:42:20 INFO  Lambda:31 - mattress 
+2021-10-29 02:42:20 INFO  Lambda:33 - Arrays.stream numbers
+2021-10-29 02:42:20 INFO  Lambda:34 - Present
+2021-10-29 02:42:20 INFO  Lambda:36 - Arrays as list stream
+2021-10-29 02:42:20 INFO  Lambda:38 - DEIDARA
+2021-10-29 02:42:20 INFO  Lambda:38 - HIDAN
+2021-10-29 02:42:20 INFO  Lambda:38 - HISAME
+2021-10-29 02:42:20 INFO  Lambda:38 - ITACHI
+2021-10-29 02:42:20 INFO  Lambda:38 - KAKUZU
+2021-10-29 02:42:20 INFO  Lambda:38 - KONAN
+2021-10-29 02:42:20 INFO  Lambda:38 - OROCHIMARU
+2021-10-29 02:42:20 INFO  Lambda:38 - SASORI
+2021-10-29 02:42:20 INFO  Lambda:41 - Longer then 6
+2021-10-29 02:42:20 INFO  Lambda:42 - Akatsuki 
+2021-10-29 02:42:20 INFO  Lambda:42 - Deidara 
+2021-10-29 02:42:20 INFO  Lambda:42 - Orochimaru 
+2021-10-29 02:42:20 INFO  Lambda:42 - tsudotta 
+2021-10-29 02:42:20 INFO  Lambda:45 - Conctains a
+2021-10-29 02:42:20 INFO  Lambda:46 - Akatsuki 
+2021-10-29 02:42:20 INFO  Lambda:46 - Deidara 
+2021-10-29 02:42:20 INFO  Lambda:46 - Hidan 
+2021-10-29 02:42:20 INFO  Lambda:46 - Hisame 
+2021-10-29 02:42:20 INFO  Lambda:46 - Itachi 
+2021-10-29 02:42:20 INFO  Lambda:46 - Kakuzu 
+2021-10-29 02:42:20 INFO  Lambda:46 - Konan 
+2021-10-29 02:42:20 INFO  Lambda:46 - Orochimaru 
+2021-10-29 02:42:20 INFO  Lambda:46 - Sasori 
+2021-10-29 02:42:20 INFO  Lambda:46 - tsudotta 
+2021-10-29 02:42:20 INFO  Lambda:46 - wa 
+2021-10-29 02:42:20 INFO  Lambda:49 - Count of word that are more then 3 char long - 3
+2021-10-29 02:42:20 INFO  Lambda:55 - LambdaL 145 422
+2021-10-29 02:42:20 INFO  Lambda:55 - AMZN 690 849
+2021-10-29 12:29:37 INFO  CreatingDateAndTime:16 - 2021-10-29
+2021-10-29 12:29:37 INFO  CreatingDateAndTime:17 - 12:29:37.946621
+2021-10-29 12:29:37 INFO  CreatingDateAndTime:18 - 2021-10-29T12:29:37.949619400
+2021-10-29 12:29:37 INFO  CreatingDateAndTime:23 - 2021-11-08
+2021-10-29 12:29:37 INFO  CreatingDateAndTime:24 - 16:00
+2021-10-29 12:29:37 INFO  CreatingDateAndTime:25 - 2021-11-08T16:00
+2021-10-29 12:29:37 INFO  CreatingDateAndTime:28 - Fri Oct 29 12:29:37 EEST 2021
+2021-10-29 12:29:38 INFO  CreatingDateAndTime:33 - Thu Jan 01 12:29:38 EET 2015
+2021-10-29 12:30:21 INFO  CreatingDateAndTime:16 - 2021-10-29
+2021-10-29 12:30:21 INFO  CreatingDateAndTime:17 - 12:30:21.344229200
+2021-10-29 12:30:21 INFO  CreatingDateAndTime:18 - 2021-10-29T12:30:21.345229600
+2021-10-29 12:30:21 INFO  CreatingDateAndTime:23 - 2021-11-08
+2021-10-29 12:30:21 INFO  CreatingDateAndTime:24 - 16:00
+2021-10-29 12:30:21 INFO  CreatingDateAndTime:25 - 2021-11-08T16:00
+2021-10-29 12:30:21 INFO  CreatingDateAndTime:28 - Fri Oct 29 12:30:21 EEST 2021
+2021-10-29 12:30:21 INFO  CreatingDateAndTime:33 - Thu Jan 01 12:30:21 EET 2015
+2021-10-29 13:32:06 INFO  Period:33 - Need to clean the cage on date: 2002-11-08
+2021-10-29 13:32:06 INFO  Period:23 - 2002-11-22
+2021-10-29 13:32:06 INFO  Period:24 - 2021-11-12T13:32:06.324334600
+2021-10-29 13:32:06 INFO  Period:28 - P1Y1M
+2021-10-29 14:02:41 INFO  Period:33 - Need to clean the cage on date: 2002-11-08
+2021-10-29 14:02:41 INFO  Period:33 - Need to clean the cage on date: 2002-11-11
+2021-10-29 14:02:41 INFO  Period:33 - Need to clean the cage on date: 2002-11-14
+2021-10-29 14:02:41 INFO  Period:33 - Need to clean the cage on date: 2002-11-17
+2021-10-29 14:02:41 INFO  Period:23 - 2002-11-11
+2021-10-29 14:02:41 INFO  Period:24 - 2021-11-01T14:02:41.567926400
+2021-10-29 14:02:41 INFO  Period:28 - P1Y1M
+2021-10-29 14:04:48 INFO  Period:33 - Need to clean the cage on date: 2002-11-08
+2021-10-29 14:04:48 INFO  Period:33 - Need to clean the cage on date: 2002-11-11
+2021-10-29 14:04:48 INFO  Period:33 - Need to clean the cage on date: 2002-11-14
+2021-10-29 14:04:48 INFO  Period:33 - Need to clean the cage on date: 2002-11-17
+2021-10-29 14:04:48 INFO  Period:23 - 2002-11-11
+2021-10-29 14:04:48 INFO  Period:24 - 2021-11-01T14:04:48.220869100
+2021-10-29 14:04:48 INFO  Period:28 - P10Y
+2021-10-29 14:07:46 INFO  DateTimeFormatting:23 - 2002-11-08
+2021-10-29 14:07:46 INFO  DateTimeFormatting:24 - 2002-11-08T11:22:33
+2021-10-29 14:07:46 INFO  DateTimeFormatting:25 - 11:22:33
+2021-10-29 14:08:04 INFO  DateTimeFormatting:23 - 2002-11-08
+2021-10-29 14:08:04 INFO  DateTimeFormatting:24 - 2002-11-08T11:22:33
+2021-10-29 14:08:04 INFO  DateTimeFormatting:25 - 11:22:33
+2021-10-29 14:08:04 INFO  DateTimeFormatting:30 - 08.11.2002
+2021-10-29 14:08:04 INFO  DateTimeFormatting:31 - 8 нояб. 2002 г.
+2021-10-29 14:08:46 INFO  DateTimeFormatting:23 - 2002-11-08
+2021-10-29 14:08:46 INFO  DateTimeFormatting:24 - 2002-11-08T11:22:33
+2021-10-29 14:08:46 INFO  DateTimeFormatting:25 - 11:22:33
+2021-10-29 14:08:46 INFO  DateTimeFormatting:32 - 08.11.2002
+2021-10-29 14:08:46 INFO  DateTimeFormatting:33 - 8 нояб. 2002 г.
+2021-10-29 14:08:46 INFO  DateTimeFormatting:34 - 8 ноября 2002 г.
+2021-10-29 14:08:46 INFO  DateTimeFormatting:35 - пятница, 8 ноября 2002 г.
+2021-10-29 14:16:31 INFO  DateTimeFormatting:23 - 2002-11-08
+2021-10-29 14:16:31 INFO  DateTimeFormatting:24 - 2002-11-08T11:22:33
+2021-10-29 14:16:31 INFO  DateTimeFormatting:25 - 11:22:33
+2021-10-29 14:16:31 INFO  DateTimeFormatting:32 - Short formatting 08.11.2002
+2021-10-29 14:16:31 INFO  DateTimeFormatting:33 - Medium formatting 8 нояб. 2002 г.
+2021-10-29 14:16:31 INFO  DateTimeFormatting:34 - Long formatting 8 ноября 2002 г.
+2021-10-29 14:16:31 INFO  DateTimeFormatting:35 - Full formatting пятница, 8 ноября 2002 г.
+2021-10-29 14:16:31 INFO  DateTimeFormatting:38 - Formating using pattern [M dd, yyyy, hh:mm]11 08, 2002, 11:22
+2021-10-29 14:16:31 INFO  DateTimeFormatting:41 - Formating using pattern hh:mm02:16
+2021-10-29 14:16:31 INFO  DateTimeFormatting:44 - 11:22
+2021-10-29 14:16:31 INFO  DateTimeFormatting:45 - 11:22
+2021-10-29 14:19:41 INFO  ParsingDateTime:20 - Date 2002-08-11
+2021-10-29 14:19:41 INFO  ParsingDateTime:21 - Time: 00:00
+2021-10-29 14:20:58 INFO  ParsingDateTime:20 - Date 08 11 2002
+2021-10-29 14:20:58 INFO  ParsingDateTime:21 - Time 00:00
+2021-10-29 14:20:58 INFO  ParsingDateTime:25 - 05 05 2010
+2021-10-29 14:20:58 INFO  ParsingDateTime:29 - 10 10 2010
+2021-10-29 14:21:28 INFO  ParsingDateTime:20 - Date 08 11 2002
+2021-10-29 14:21:28 INFO  ParsingDateTime:21 - Time 00:00
+2021-10-29 14:21:28 INFO  ParsingDateTime:25 - 11 20 2002
+2021-10-29 14:21:28 INFO  ParsingDateTime:29 - 04 25 2003
+2021-10-29 14:21:57 INFO  ParsingDateTime:20 - Date 08 11 2002
+2021-10-29 14:21:57 INFO  ParsingDateTime:21 - Time 00:00
+2021-10-29 14:21:57 INFO  ParsingDateTime:24 - 11 20 2002
+2021-10-29 14:21:57 INFO  ParsingDateTime:28 - 04 25 2003
+2021-10-29 14:22:09 INFO  ParsingDateTime:20 - Date 08 11 2002
+2021-10-29 14:22:09 INFO  ParsingDateTime:21 - Time 00:00
+2021-10-29 14:22:09 INFO  ParsingDateTime:24 - 11 20 2002
+2021-10-29 14:22:09 INFO  ParsingDateTime:28 - 12 21 2002
