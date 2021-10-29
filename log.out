@@ -139,3 +139,35 @@
 2021-10-29 14:22:09 INFO  ParsingDateTime:21 - Time 00:00
 2021-10-29 14:22:09 INFO  ParsingDateTime:24 - 11 20 2002
 2021-10-29 14:22:09 INFO  ParsingDateTime:28 - 12 21 2002
+2021-10-29 16:16:25 INFO  Part5:19 - Simple HashMap: 
+2021-10-29 16:16:25 INFO  Part5:21 - Emo rap - Emo rap is a fusion genre of hip hop and emo. The genre fuses characteristics of hip hop music, such as beats and rapping, with the lyrical themes, instrumentals, and vocals commonly found in emo music.
+2021-10-29 16:16:25 INFO  Part5:21 - Phonk - Phonk is a subgenre of hip hop and trap music directly inspired by 1990s Memphis rap.
+2021-10-29 16:16:25 INFO  Part5:21 - Hyperpop - Hyperpop is a loosely-defined music movement and microgenre characterized by a maximalist or exaggerated take on popular music.
+2021-10-29 16:16:25 INFO  Part5:24 - 
+
+2021-10-29 16:16:25 INFO  Part5:27 - Emo rap - Emo rap is a fusion genre of hip hop and emo. The genre fuses characteristics of hip hop music, such as beats and rapping, with the lyrical themes, instrumentals, and vocals commonly found in emo music.
+2021-10-29 16:16:25 INFO  Part5:27 - Phonk - Phonk is a subgenre of hip hop and trap music directly inspired by 1990s Memphis rap.
+2021-10-29 16:16:25 INFO  Part5:27 - Hyperpop - Hyperpop is a loosely-defined music movement and microgenre characterized by a maximalist or exaggerated take on popular music.
+2021-10-29 16:16:25 INFO  Part5:38 - 
+Tree map: 
+2021-10-29 16:16:25 INFO  Part5:41 - Emo rap - Emo rap is a fusion genre of hip hop and emo. The genre fuses characteristics of hip hop music, such as beats and rapping, with the lyrical themes, instrumentals, and vocals commonly found in emo music.
+2021-10-29 16:16:25 INFO  Part5:41 - Hyperpop - Hyperpop is a loosely-defined music movement and microgenre characterized by a maximalist or exaggerated take on popular music.
+2021-10-29 16:16:25 INFO  Part5:41 - Phonk - Phonk is a subgenre of hip hop and trap music directly inspired by 1990s Memphis rap.
+2021-10-29 16:16:25 INFO  Part5:46 - 
+
+2021-10-29 16:16:25 INFO  Part5:49 - Emo rap - best genre
+2021-10-29 16:16:25 INFO  Part5:49 - Hyperpop - Hyperpop is a loosely-defined music movement and microgenre characterized by a maximalist or exaggerated take on popular music.
+2021-10-29 16:16:25 INFO  Part5:49 - Phonk - Phonk is a subgenre of hip hop and trap music directly inspired by 1990s Memphis rap.
+2021-10-29 16:17:09 INFO  Part1And2:55 - Thread execution starts - Thread D
+2021-10-29 16:17:09 INFO  Part1And2:61 - 0 1 2 3 4 5 6 7 8 9  by Thread D
+2021-10-29 16:17:09 INFO  Part1And2:55 - Thread execution starts - Thread C
+2021-10-29 16:17:09 INFO  Part1And2:55 - Thread execution starts - Thread A
+2021-10-29 16:17:09 INFO  Part1And2:55 - Thread execution starts - Thread B
+2021-10-29 16:17:09 INFO  Part1And2:61 - 0 1 2 3 4 5 6 7 8 9  by Thread B
+2021-10-29 16:17:09 INFO  Part1And2:61 - 0 1 2 3 4 5 6 7 8 9  by Thread C
+2021-10-29 16:17:09 INFO  Part1And2:61 - 0 1 2 3 4 5 6 7 8 9  by Thread A
+2021-10-29 16:17:10 INFO  Part1And2:75 - Thread execution starts - Runnable-2
+2021-10-29 16:17:10 INFO  Part1And2:81 - 0 1 2 3 4 5 6 7 8 9  by Runnable-2
+2021-10-29 16:17:10 INFO  Part1And2:75 - Thread execution starts - Runnable-1
+2021-10-29 16:17:10 INFO  Part1And2:81 - 0 1 2 3 4 5 6 7 8 9  by Runnable-1
+2021-10-29 16:17:10 INFO  Part1And2:43 - 0 1 2 3 4 5 6 7 8 9 
